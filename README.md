@@ -97,6 +97,30 @@ Follow these steps to run the project locally.
 4.  Open your browser at `http://localhost:5173`.
 
 ---
+## 📸 Project Screenshots
+
+Here is a visual tour of the application functionalities:
+
+### 📋 Main Dashboard & Listing
+The main view displays all employees with formatted salaries and action buttons.
+![Main Table](img/table.png)
+
+### ➕ Employee Registration
+Form with validation to add new records to the database.
+![Register Form](img/register.png)
+
+### ✏️ Edit & Update
+You can modify existing employee details easily.
+| Before Update | After Update |
+|:---:|:---:|
+| ![New Table](img/new_table.png) | ![Updated View](img/updated.png) |
+
+### 🗑️ Delete Flow
+Secure deletion with a confirmation modal to prevent accidents.
+| Confirmation Modal | Result |
+|:---:|:---:|
+| ![Delete Confirm](img/about-to-delete.png) | ![Employee Removed](img/employee-removed.png) |
+
 
 ## ✒️ Author
 
